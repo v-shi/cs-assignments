@@ -1,2 +1,2 @@
 # python-tester
-Repository to test some basic Python code
+Repository for some Python Exercises & Assignments
