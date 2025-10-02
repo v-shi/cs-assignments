@@ -1,2 +1,2 @@
-# python-tester
-Repository for some Python Exercises & Assignments
+#cs-assignments
+solutions to exercises
