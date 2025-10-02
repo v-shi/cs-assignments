@@ -1,2 +1,1 @@
-#cs-assignments
-solutions to exercises
+solutions to some exercises
